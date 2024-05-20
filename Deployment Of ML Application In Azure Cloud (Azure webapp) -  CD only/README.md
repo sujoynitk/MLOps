@@ -1,8 +1,6 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
+# Gemstone Price Prediction - ( youtube video link https://www.youtube.com/watch?v=SkzmbeYCtiU )
 
 ### Introduction About the Data :
-
-Please this project is of a student. Just wanted to appreciate for knowledge sharing 
 
 **The dataset** The goal is to predict `price` of given diamond (Regression Analysis).
 
